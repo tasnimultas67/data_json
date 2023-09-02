@@ -1,0 +1,5 @@
+[
+    {"_id": "ex01", "position": "Junior Web Developer", "company": "Sixcell", "startDate": "4th February 2019", "endDate": "2nd November 2020", "description": "Sixcell is the leading website design and development company in Bangladesh. They provide world-class services on web design and development, web application development, eCommerce website development, search engine optimization (SEO), and more."},
+    
+    {"_id": "ex02", "position": "Web Designer & Developer", "company": "Dhaka Startup", "startDate": "5th November 2020", "endDate": "2nd April 2023", "description": "Dhaka Startup is a trusted organization established with the aim of creating success in IT. Since its inception, Dhaka Startup has achieved multi-faceted success. The company provides all kinds of online solutions for your business."}
+]
