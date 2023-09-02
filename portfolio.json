@@ -1,5 +1,4 @@
-{
-    "portfolios":[
+[
         { "_id": "pf1","portImg": "./Assets/portfolios/DhakaStartup.jpg", "portTitle": "Dhaka Startup", "portDescription": "Dhaka Startup is a trusted organization established with the aim of creating success in IT. Since its inception, Dhaka Startup has achieved multi-faceted success. The company provides all kinds of online solutions for your business.", "siteLink": "https://dhakastartup.com/" },
 
         {"_id": "pf2", "portImg": "./Assets/portfolios/DhakaStartup.jpg", "portTitle": "Fusion Arts", "portDescription": "Fusion Arts is an event entertainment agency and contemporary circus company based in Montpellier in the south of France. Its mission is to create and provide high quality event entertainment to its clients around the world.", "siteLink": "https://fusion-arts.com/" },
@@ -22,4 +21,3 @@
 
         {"_id": "pf11", "portImg": "./Assets/portfolios/DhakaStartup.jpg", "portTitle": "Game Team", "portDescription": "GameTeam.Dev is a part-time games industry talent acceleration programme that helps you get yourself ready for the games industry and boost your teamworking skills.", "siteLink": "https://www.gameteam.dev/" }
     ]
-}
